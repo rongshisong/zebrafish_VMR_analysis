@@ -1,5 +1,5 @@
 # zebrafish_VMR_analysis
-Welcome to the online repository of my scripts for analyzing Visual Motor Response (VMR) data collected from zebrafish larvae. During development of our analytical pipeline, we took reference to the work of research groups who pioneered the VMR assay. Please refer to the reference section of the readme file. As this is an evolving efforts to build an analytical pipeline, all the codes are subject to changes for different research projects/publications.
+Welcome to the online repository of my scripts for analyzing Visual Motor Response (VMR) data collected from zebrafish larvae. During development of our analytical pipeline, we took reference to the work of research groups who pioneered the VMR assay. Please refer to the reference section of the readme file. As building VMR analytical pipeline is an evolving effort, all the codes in the GitHub repository are subject to changes for different research projects/publications.
 
 Shi Song Rong @
 Massachusetts Eye and Ear, Harvard Medical School, Boston
