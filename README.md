@@ -3,3 +3,6 @@ Welcome to the online repository of my scripts for analyzing Visual Motor Respon
 
 Shi Song Rong @
 Massachusetts Eye and Ear, Harvard Medical School, Boston
+
+# Summary of publicaitons
+1. [In press]
