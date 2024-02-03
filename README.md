@@ -1,6 +1,6 @@
 # Zebrafish VMR Analysis
 
-Welcome to the online repository for the **Zebrafish Visual Motor Response (VMR) Analytical Tool**. This tool is designed for recording and analyzing VMR data collected from zebrafish larvae using **ZebraLab** by ViewPoint. Building a VMR analytical pipeline is an ongoing effort, hence all codes in this repository may undergo changes to accommodate different research projects and publications. Our development of the analytical pipeline is informed by the pioneering work of researchers in the VMR assay field. Please see the references section at the end of this document for further details.
+Welcome to the online repository for the **Zebrafish Visual Motor Response (VMR) Analytical Tool**. This tool is designed for re-coding (the output raw activity data file) and analyzing VMR data collected from zebrafish larvae using **ZebraLab** by ViewPoint. Building a VMR analytical pipeline is an ongoing effort, hence all codes in this repository may undergo changes to accommodate different research projects and publications. Our development of the analytical pipeline is informed by the pioneering work of researchers in the VMR assay field. Please see the references section at the end of this document for further details.
 
 ## Publications Using This Pipeline
 
