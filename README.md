@@ -6,15 +6,22 @@ Welcome to the online repository for the **Zebrafish Visual Motor Response (VMR)
 
 The following publications have utilized this pipeline for their research, demonstrating its application and utility in the field:
 
-1. **A hidden structural variation in a known IRD gene: a cautionary tale of two new disease candidate genes.**  
+1. **A zebrafish model system for studying the ANGPT/TIE2 pathway and glaucoma.**  
+   Shi Song Rong; Anna Larson; Janey L Wiggs.  
+   Investigative Ophthalmology & Visual Science June 2022, Vol.63, 1130.
+
+2. **A hidden structural variation in a known IRD gene: a cautionary tale of two new disease candidate genes.**  
    Scott HA, Larson A, Rong SS, Mehrotra S, Butcher R, Chao KR, Wiggs JL, Place EM, Pierce EA, Bujakowska KM.  
    Cold Spring Harb Mol Case Stud. 2022 Mar 24;8(2):a006131.  
-   [DOI: 10.1101/mcs.a006131](https://doi.org/10.1101/mcs.a006131)  
-   PMID: 34728537
+   DOI: [10.1101/mcs.a006131](https://doi.org/10.1101/mcs.a006131). PMID: 34728537
 
-2. **Rare ATXN2 Variants in Cases with Primary Open Angle Glaucoma Cause Visual Impairment in Zebrafish.**  
-   SS Rong, A Larson, JS Borchert, JL Wiggs.  
-   Investigative Ophthalmology & Visual Science 60 (9), 2833-2833
+3. **Rare ATXN2 Variants in Cases with Primary Open Angle Glaucoma Cause Visual Impairment in Zebrafish.**  
+   Shi Song Rong; Anna Larson; John Simmons Borchert; Janey L Wiggs.  
+   Investigative Ophthalmology & Visual Science July 2019, Vol.60, 2833.
+
+4. **Functional annotation of glaucoma-associated ATXN2 variants using zebrafish.**  
+   Shi Song Rong; Louis R. Pasquale; Anna Larson; Kinga Maria Bujakowska; Janey L Wiggs.  
+   Investigative Ophthalmology & Visual Science July 2018, Vol.59, 5157.
 
 ## References
 
